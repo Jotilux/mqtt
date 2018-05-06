@@ -1,0 +1,5 @@
+// *** Define the Wlan to connect ***
+const char* ssid = "<ssid>";
+const char* password = "<passwort>";
+const char* mqtt_server = "<name or ip>";
+const char* hname = "<hostname>";
